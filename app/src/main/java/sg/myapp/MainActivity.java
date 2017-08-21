@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView mTextMessage;
 
+    // comment added
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
